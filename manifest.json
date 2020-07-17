@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
-  "name": "My Cool Extension",
+  "name": "Palamedeus's Extension",
   "version": "0.1",
   "background": {
   "scripts": ["background.js"]
-  } 
+  }
   "content_scripts": [
     {
       "matches": [

@@ -1,1 +1,4 @@
-alert("get off reddit you nerd lmao")
+alert("Alert!")
+var firstHref = $("a[href^='http']").eq(0).attr("href");
+
+console.log(firstHref);
